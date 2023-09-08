@@ -1,0 +1,1 @@
+/*Create a program that displays a menu of operations (e.g., calculate square root, calculate factorial) and allows the user to choose an operation. Use function pointers to execute the selected operation.*/

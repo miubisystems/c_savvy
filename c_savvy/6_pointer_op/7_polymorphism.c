@@ -1,0 +1,1 @@
+/*Implement a polymorphic behavior in C by creating a program that uses function pointers to achieve different behaviors for various objects or entities.*/

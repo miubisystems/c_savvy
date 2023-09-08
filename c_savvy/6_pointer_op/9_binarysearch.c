@@ -1,0 +1,1 @@
+/*program to do binary search using pointers*/
