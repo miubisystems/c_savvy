@@ -1,0 +1,1 @@
+/*In C, the concepts of linkage and scope are used to define how variables and functions can be accessed from different parts of a program. There are three types of linkage: external, internal, and no linkage, each with its characteristics.*/
